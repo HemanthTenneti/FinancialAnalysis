@@ -29,6 +29,9 @@ This dataset contains detailed transactional sales records for a café operating
 - **Top Revenue Drivers:** Salad, Sandwich, Smoothie  
 - **Balanced Channels:** In-store and Takeaway revenue nearly equal  
 
+## Dashboard Overview 
+![Dashboard Mockup](./Dashboard/Dashboard.jpeg)
+
 ## Analysis Suggestions
 1. **Revenue Trends:** Identify monthly demand stability.
 2. **Product Contribution:** Analyze revenue share by item.
